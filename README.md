@@ -2,5 +2,5 @@
 This is for tutorial of course GIT
 
 Just Added Manually repository!
-just modified by locally.
 
+This line was modified during conflict resolution!
